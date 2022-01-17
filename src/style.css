@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+}
+.MuiMenu-paper{
+    background-color: black !important;
+}
+
+#projects{
+    height: 500px;
+}
+
+#contact{
+    height: 500px;
+}
