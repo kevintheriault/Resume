@@ -2,7 +2,7 @@ import { Container, styled, Typography, ButtonBase, Box, ImageList, ImageListIte
 import covidapi from './images/covidapi.jpg';
 import coviddash from './images/coviddash.jpg';
 import resumesite from './images/resumesite.jpg';
-import americondem from './images/americondem.jpg';
+import americondem from './images/americonnect.jpg';
 import React, { useState } from "react";
 
 const Heading = styled(Typography)`
